@@ -31,20 +31,34 @@ Dengan dukungan antarmuka interaktif dan visualisasi geospasial, TowerScope memu
 ---
 
 ## 📟 Terminal Output (CLI)
+
+
+```bash
 Hasil eksekusi tools di CLI:
+```
+
 ![Output CLI 1](screenshot/tower2.png)
 ![Output CLI 2](screenshot/towerscope1.png)
 
 ---
 
 ## 📑 Report Hasil Lookup
+
+```bash
 Berikut adalah ringkasan hasil pencarian BTS:
+```
+
 ![Report Hasil Lookup](screenshot/report1.jpg)
 
 ---
 
 ## 🗺️ Maps Visualisasi
+
+
+```bash
 Peta lokasi BTS berdasarkan hasil lookup:
+```
+
 ![Peta Lokasi BTS](screenshot/maps1.png)
 
 ---

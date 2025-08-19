@@ -26,7 +26,6 @@
 
 ## 🖼️ Screenshots
 
-Tambahkan file ke folder `images/` lalu panggil di README seperti:
 ```
 ![](images/terminal.png)
 ![](images/map.png)

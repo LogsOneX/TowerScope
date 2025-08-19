@@ -8,9 +8,7 @@
 ```
 <h1 align="center"><code>TOWER-SCOPE</code></h1>
 
-<p align="center">
-**Open-source BTS & Device Intelligence Toolkit**
-</p>
+<h1 align="center"><code>Open-source BTS & Device Intelligence Toolkit</code></h1>
 
 ---
 

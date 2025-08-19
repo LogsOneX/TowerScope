@@ -11,6 +11,12 @@
 
 ---
 
+TowerScope adalah toolkit open-source untuk pengumpulan dan analisis intelijen sinyal seluler. Dirancang untuk kebutuhan SIGINT, dan investigasi teknis, TowerScope memudahkan operator, peneliti, maupun analis untuk memetakan infrastruktur BTS, dan mengidentifikasi BTS.
+
+Dengan dukungan antarmuka interaktif dan visualisasi geospasial, TowerScope memungkinkan pengguna melakukan tracking, profiling, dan estimasi posisi secara presisi, langsung dari server lokal.
+
+---
+
 ## ✨ Fitur Utama
 
 | Fitur | Deskripsi |

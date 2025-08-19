@@ -38,16 +38,35 @@
 ## ⚙️ Instalasi
 
 ```bash
-# Clone repo
+# Clone repository
 git clone https://github.com/yourusername/towerScope.git
 cd towerScope
 
-# (opsional) Buat virtual environment
-python -m venv towerscope-env
-source towerscope-env/bin/activate  # Windows: towerscope-env\Scripts\activate
-
 # Install dependencies
 pip install -r requirements.txt
+
+# Jalankan TowerScope
+python src/towerscope.py
+```
+
+---
+
+## ⚙️ Virtual Environment (Rekomendasi)
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/towerScope.git
+cd towerScope
+
+# Jalankan setup script (Linux/macOS)
+chmod +x scripts/setup_environment.sh
+./scripts/setup_environment.sh
+
+# Aktifkan virtual environment
+source towerScope-env/bin/activate
+
+# Jalankan TowerScope
+python src/towerscope.py
 ```
 
 ---

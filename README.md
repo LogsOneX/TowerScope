@@ -101,16 +101,27 @@ Tunggu proses analisis
 
 ---
 
-## 🔧 API Setup
+## 🔧 Konfigurasi API
 
-TowerScope memerlukan **API Key UnwiredLabs** untuk data BTS nyata.
+TowerScope memerlukan API key dari UnwiredLabs untuk mengakses database menara seluler:
+- Daftar akun gratis di UnwiredLabs
+- Verifikasi email dan dapatkan API key dari dashboard
+- Konfigurasi API key dengan salah satu metode berikut:
 
-| Metode | Cara |
-|--------|------|
-| 🌱 Environment Variable *(Rekomendasi)* | `export OPENCELLID_API_KEY="your_api_key_here"` |
-| 📂 Config File | Salin `config/config.example.py` ke `config/config.py` lalu isi `API_KEY` |
+---
 
-> Jika tidak ada API key, gunakan `--simulate` untuk demo.
+## Metode 1: Environment Variable (Rekomendasi)
+
+```bash
+export OPENCELLID_API_KEY="your_api_key_here"
+```
+
+## Metode 2: File Konfigurasi
+
+```bash
+cp config/config.example.py config/config.py
+# Edit config.py dan tambahkan API key Anda
+```
 
 ---
 

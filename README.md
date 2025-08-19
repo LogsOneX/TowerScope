@@ -11,7 +11,6 @@
 
 <h1 align="center"><code>Open-source BTS & Device Intelligence Toolkit</code></h1>
 
----
 
 TowerScope adalah toolkit open-source untuk pengumpulan dan analisis intelijen sinyal seluler. Dirancang untuk kebutuhan SIGINT, dan investigasi teknis, TowerScope memudahkan operator, peneliti, maupun analis untuk memetakan infrastruktur BTS, dan mengidentifikasi BTS.
 

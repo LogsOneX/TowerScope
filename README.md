@@ -73,10 +73,8 @@ python src/towerscope.py
 
 ## 🚀 Usage
 
-### Mode CLI (disarankan)
 ```bash
-python src/towerscope.py --codename Operation_Jakarta --operator Agent_007 \
-  --country 62 --mcc 510 --mnc 10 --lac 20225 --cid 20336641 --serve
+python src/towerscope.py
 ```
 
 ### Mode Simulasi (tanpa API key, untuk tes cepat)

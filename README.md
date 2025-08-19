@@ -77,9 +77,11 @@ python src/towerscope.py
 python src/towerscope.py
 ```
 
+---
+
 ### Masukkan parameter operasi:
 
-| Parameter                |
+| Parameter |              |
 |----------|---------------|
 | Operation Codename | nama untuk file output |
 | Operator Name | nama operator |
@@ -90,10 +92,12 @@ python src/towerscope.py
 | Cell ID | Cell Identity |
 | IMSI dan IMEI | opsional |
 
-Output:
-- Peta interaktif: `output/<codename>_map.html` (otomatis disajikan di `http://localhost:8080` jika `--serve` dipakai)
-- Laporan: `output/<codename>_report.html` dan `output/<codename>_report.csv`
-- Log berwarna di terminal
+---
+
+Tunggu proses analisis
+- Aplikasi akan mengquery database OpenCellID/UnwiredLabs
+- Generate peta dan laporan
+- Tampilkan hasil di terminal
 
 ---
 

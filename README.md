@@ -168,8 +168,8 @@ TowerScope dibangun dengan library Python berikut:
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Penafian
 
-Hanya untuk **riset & edukasi**. Pastikan memiliki otorisasi sebelum melakukan pelacakan. Pengembang tidak bertanggung jawab atas penyalahgunaan.
+TowerScope dirancang untuk tujuan edukasi, penelitian, dan keamanan yang sah. Pengguna bertanggung jawab penuh atas penggunaan alat ini dan harus memastikan mereka memiliki otorisasi yang tepat sebelum melakukan pelacakan atau kegiatan pengumpulan intelijen apa pun. Pengembang tidak bertanggung jawab atas penyalahgunaan.
 
 ---

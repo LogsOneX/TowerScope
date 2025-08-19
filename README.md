@@ -24,6 +24,17 @@
 
 ---
 
+## 🖼️ Screenshots
+
+Tambahkan file ke folder `images/` lalu panggil di README seperti:
+```
+![](images/terminal.png)
+![](images/map.png)
+![](images/report.png)
+```
+
+---
+
 ## 📦 Requirements
 
 | Komponen | Versi Minimum |
@@ -125,17 +136,6 @@ cp config/config.example.py config/config.py
 
 ---
 
-## 🖼️ Screenshots
-
-Tambahkan file ke folder `images/` lalu panggil di README seperti:
-```
-![](images/terminal.png)
-![](images/map.png)
-![](images/report.png)
-```
-
----
-
 ## 📚 Library yang Digunakan
 
 TowerScope dibangun dengan library Python berikut:
@@ -143,6 +143,16 @@ TowerScope dibangun dengan library Python berikut:
 - **Folium** - Visualisasi peta interaktif
 - **Colorama** - Pewarnaan output terminal
 - **Python Standard Library** - Modul bawaan Python
+
+---
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -am 'Add feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request
 
 ---
 

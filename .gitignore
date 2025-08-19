@@ -1,0 +1,26 @@
+# Virtual environment
+towerScope-env/
+.env
+venv/
+
+# Output files
+output/*
+!output/.gitkeep
+
+# Configuration files with secrets
+config/config.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -33,9 +33,10 @@ Dengan dukungan antarmuka interaktif dan visualisasi geospasial, TowerScope memu
 ## 🖼️ Screenshots
 
 ```
-![](images/terminal.png)
-![](images/map.png)
-![](images/report.png)
+![Output CLI 1](screenshot/tower2.png)
+![Output CLI 2](screenshot/towerscope1.png)
+![Report Hasil Lookup](screenshot/report1.jpg)
+![Peta Lokasi BTS](screenshot/maps1.png)
 ```
 
 ---

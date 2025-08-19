@@ -136,6 +136,16 @@ Tambahkan file ke folder `images/` lalu panggil di README seperti:
 
 ---
 
+## 📚 Library yang Digunakan
+
+TowerScope dibangun dengan library Python berikut:
+- **Requests** - HTTP requests untuk API calls
+- **Folium** - Visualisasi peta interaktif
+- **Colorama** - Pewarnaan output terminal
+- **Python Standard Library** - Modul bawaan Python
+
+---
+
 ## 📚 Credits
 
 - 📡 **UnwiredLabs** – data BTS global

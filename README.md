@@ -55,14 +55,14 @@ Dengan dukungan antarmuka interaktif dan visualisasi geospasial, TowerScope memu
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/towerScope.git
-cd towerScope
+git clone https://github.com/LogsOneX/TowerScope
+cd TowerScope
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Jalankan TowerScope
-python src/towerscope.py
+python src/TowerScope.py
 ```
 
 ---
@@ -71,18 +71,18 @@ python src/towerscope.py
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/towerScope.git
-cd towerScope
+git clone https://github.com/LogsOneX/TowerScope
+cd TowerScope
 
 # Jalankan setup script (Linux/macOS)
 chmod +x scripts/setup_environment.sh
 ./scripts/setup_environment.sh
 
 # Aktifkan virtual environment
-source towerScope-env/bin/activate
+source TowerScope-env/bin/activate
 
 # Jalankan TowerScope
-python src/towerscope.py
+python src/TowerScope.py
 ```
 
 ---
@@ -90,7 +90,7 @@ python src/towerscope.py
 ## 🚀 Usage
 
 ```bash
-python src/towerscope.py
+python src/TowerScope.py
 ```
 
 ---

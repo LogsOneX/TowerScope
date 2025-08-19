@@ -6,8 +6,11 @@
    ██║   ╚██████╔╝╚███╔███╔╝███████╗██║  ██║███████║╚██████╗╚██████╔╝██║     ███████╗
    ╚═╝    ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚══════╝
 ```
-# 🛰️ TowerScope  
+<h1 align="center"><code>TOWER-SCOPE</code></h1>
+
+<p align="center">
 **Open-source BTS & Device Intelligence Toolkit**
+</p>
 
 ---
 
@@ -169,16 +172,6 @@ TowerScope dibangun dengan library Python berikut:
 - **Folium** - Visualisasi peta interaktif
 - **Colorama** - Pewarnaan output terminal
 - **Python Standard Library** - Modul bawaan Python
-
----
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
 
 ---
 

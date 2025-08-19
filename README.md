@@ -93,8 +93,6 @@ python src/towerscope.py
 python src/towerscope.py
 ```
 
----
-
 ### Masukkan parameter operasi:
 
 | Parameter |              |
@@ -107,8 +105,6 @@ python src/towerscope.py
 | LAC | Location Area Code |
 | Cell ID | Cell Identity |
 | IMSI dan IMEI | opsional |
-
----
 
 Tunggu proses analisis
 - Aplikasi akan mengquery database OpenCellID/UnwiredLabs

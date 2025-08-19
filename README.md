@@ -77,10 +77,18 @@ python src/towerscope.py
 python src/towerscope.py
 ```
 
-### Mode Simulasi (tanpa API key, untuk tes cepat)
-```bash
-python src/towerscope.py --codename demo --simulate --serve
-```
+### Masukkan parameter operasi:
+
+| Parameter                |
+|----------|---------------|
+| Operation Codename | nama untuk file output |
+| Operator Name | nama operator |
+| Country Code | kode negara, contoh: 62 untuk Indonesia |
+| MCC | Mobile Country Code, contoh: 510 untuk Indonesia |
+| MNC | Mobile Network Code, contoh: 10 untuk Telkomsel |
+| LAC | Location Area Code |
+| Cell ID | Cell Identity |
+| IMSI dan IMEI | opsional |
 
 Output:
 - Peta interaktif: `output/<codename>_map.html` (otomatis disajikan di `http://localhost:8080` jika `--serve` dipakai)

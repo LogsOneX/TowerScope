@@ -7,6 +7,8 @@
    ╚═╝    ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚══════╝
 ```
 
+---
+
 <h1 align="center"><code>Open-source BTS & Device Intelligence Toolkit</code></h1>
 
 ---

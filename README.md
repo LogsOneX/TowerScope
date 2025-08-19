@@ -142,7 +142,7 @@ Tunggu proses analisis
 ## 🔧 Konfigurasi API
 
 TowerScope memerlukan API key dari UnwiredLabs untuk mengakses database menara seluler:
-- Daftar akun gratis di UnwiredLabs
+- Daftar akun di UnwiredLabs
 - Verifikasi email dan dapatkan API key dari dashboard
 - Konfigurasi API key dengan salah satu metode berikut:
 
